@@ -1,5 +1,3 @@
-# dashboard-logistics
-
 # 📦 Logistics Analytics Dashboard
 
 A modern and data-driven **Logistics Analytics Dashboard** designed to analyze shipment performance, costs, delays, and efficiency across multiple dimensions.  
@@ -103,6 +101,23 @@ Analyzes **Cost / Weight (kg)** per carrier to identify the **most cost-efficien
 
 
 
+## 📞 Need a Similar Dashboard?
+
+If you are looking for a **custom logistics, analytics, or KPI-driven dashboard** tailored to your business needs — feel free to contact me.
+
+I can help with:
+- 📊 Data Analytics Dashboards
+- 📦 Logistics & Operations KPIs
+- 📈 Business Performance Analysis
+- 🎨 Clean, modern, and decision-focused visuals
+
+### Contact Information
+
+📱 **Phone:** +998 94 298 12 80  
+💬 **Telegram:** @Olamgirdev  
+📧 **Email:** olamgirdev@gmail.com
+
+Let’s turn your data into clear insights 🚀
 
 ## 📂 Repository Structure
 
